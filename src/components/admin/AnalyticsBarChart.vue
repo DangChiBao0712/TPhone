@@ -6,7 +6,7 @@
     </div>
 
     <div v-if="!points || points.length === 0" class="empty-state">
-      Chưa có dữ liệu biểu đồ.
+      Chưa có dữ liệu biểu đồ.....
     </div>
 
     <div v-else class="chart-wrapper">
